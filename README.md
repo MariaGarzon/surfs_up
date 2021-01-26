@@ -11,7 +11,9 @@ After performing the analysis, there were three key differences in weather betwe
 
   •	The is an unequal sample size, as June has a total of 1700 observations and December has 1517. This amounts to a difference of 183    
     data points. 
+    
   •	The temperature mean differs by 3.9 degrees, with June having an average of 74.9 degrees and December 71.0 degrees. 
+  
   •	There June data is slightly skewed to the left, whereas the December data has a symmetrical distribution. 
   
 # Summary
