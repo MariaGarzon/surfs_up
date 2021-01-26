@@ -22,5 +22,5 @@ A limitation of this data is it is not indicated the time of day that temperatur
 
 The results were also plotted on a historgram as shown below to vidualize the frequency of each temperature. 
 
-![June Histogram](/Users/Maria/Desktop/surfs_up/june_temp_hist.png)
-![December Histogram](/Users/Maria/Desktop/surfs_up/dec_temp_hist.png)
+![June Histogram](/surfs_up/june_temp_hist.png)
+![December Histogram](/surfs_up/dec_temp_hist.png)
